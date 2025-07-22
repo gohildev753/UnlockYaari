@@ -1,0 +1,41 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+  color: #333;
+  text-align: center;
+}
+
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 1.5rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.chat-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #0070f3;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.chat-btn:hover {
+  background-color: #005ad3;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #eee;
+  font-size: 0.9rem;
+}
