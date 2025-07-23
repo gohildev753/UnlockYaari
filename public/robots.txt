@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unlock-yaari-gtid35i76-gohildev753s-projects.vercel.app/sitemap.xml
